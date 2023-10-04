@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Raza Khan</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<p align="left" style="display: flex; align-items: center; gap: 2px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza47" alt="aliraza47" /></a> </p>
+<div style="display: flex; align-items: center; gap: 2px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza47" alt="aliraza47" /></a> </div>
 
 - 👨‍💻 All of my projects are available at [https://khanaliraza.netlify.app/](https://khanaliraza.netlify.app/)
 
