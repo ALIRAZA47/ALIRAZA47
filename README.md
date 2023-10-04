@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Raza Khan</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza47&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza47" alt="aliraza47" /></a> </p>
+<p align="left"> <a style="margin-left: 4px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza47" alt="aliraza47" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://khanaliraza.netlify.app/](https://khanaliraza.netlify.app/)
 
