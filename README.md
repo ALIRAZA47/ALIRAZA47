@@ -3,7 +3,7 @@
 
 <p alig="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliraza47" alt="aliraza47" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://khanaliraza.netlify.app/](https://khanaliraza.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://alirazakhan.me](https://alirazakhan.me)
 
 - 💬 Ask me about **react, vue, node.js**
 
