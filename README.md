@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alirazakhan.me](https://alirazakhan.me)
 
-- 💬 Ask me about **react, vue, node.js**
+- 💬 Ask me about **nestjs, react, vue, node.js**
 
 - 📫 How to reach me **khan47.aliraza@gmail.com**
 
